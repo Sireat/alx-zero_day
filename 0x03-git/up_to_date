@@ -1,0 +1,8 @@
+clone
+cd
+echo cat
+git config
+git add .
+git commit -m
+git push
+git pull
